@@ -4,6 +4,7 @@ void main() {
 	customer.add(54.5);
 	customer.add(12.2);
   loyalCustomer.add(10);
+  loyalCustomer.add(10);
 	print(customer.getPurchaseAmount());
   print(loyalCustomer.getPurchaseAmount());
 }
